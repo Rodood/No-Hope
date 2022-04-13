@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 5996dc9a61958444aa6ab9a053efde05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5995982757551824238
+    second: "Jac\xF3_0"
+  - first:
+      213: -2055380690529107507
+    second: "Jac\xF3_1"
+  - first:
+      213: -3328948977316543945
+    second: "Jac\xF3_2"
+  - first:
+      213: -4111882224244804912
+    second: "Jac\xF3_3"
+  - first:
+      213: -8381794902804443707
+    second: "Jac\xF3_4"
+  - first:
+      213: -648312217304995095
+    second: "Jac\xF3_5"
+  - first:
+      213: 8262259470316901693
+    second: "Jac\xF3_6"
+  - first:
+      213: 1346092928157486642
+    second: "Jac\xF3_7"
+  - first:
+      213: 874585676073539254
+    second: "Jac\xF3_8"
+  - first:
+      213: -8182332145258444969
+    second: "Jac\xF3_9"
+  - first:
+      213: -5727167868763256754
+    second: "Jac\xF3_10"
+  - first:
+      213: 3702719038664742693
+    second: "Jac\xF3_11"
+  - first:
+      213: -7868143680573559111
+    second: "Jac\xF3_12"
+  - first:
+      213: 1388645886045206269
+    second: "Jac\xF3_13"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Jac\xF3_0"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 664
+        width: 96
+        height: 102
+      alignment: 9
+      pivot: {x: 0.24413078, y: 0.48319918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292a1c8337df9cca0800000000000000
+      internalID: -5995982757551824238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jac\xF3_1"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 658
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.2500812, y: 0.5190418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1c0ded622d973e0800000000000000
+      internalID: -2055380690529107507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jac\xF3_2"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 658
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.24498081, y: 0.502989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732c5abea823dc1d0800000000000000
+      internalID: -3328948977316543945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jac\xF3_3"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 658
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d235a917e8afe6c0800000000000000
+      internalID: -4111882224244804912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jac\xF3_4"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 550
+        width: 96
+        height: 102
+      alignment: 9
+      pivot: {x: 0.7622768, y: 0.46280327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd492ec1f1edab80800000000000000
+      internalID: -8381794902804443707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jac\xF3_5"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 547
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.755091, y: 0.46715087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea6df7297bb007f0800000000000000
+      internalID: -648312217304995095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jac\xF3_6"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 544
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.76227665, y: 0.47043574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d359852863179a270800000000000000
+      internalID: 8262259470316901693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jac\xF3_7"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 415
+        width: 72
+        height: 108
+      alignment: 9
+      pivot: {x: 0.217364, y: 0.50638723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e0e71e2684ea210800000000000000
+      internalID: 1346092928157486642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jac\xF3_8"
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 412
+        width: 63
+        height: 114
+      alignment: 9
+      pivot: {x: 0.6149706, y: 0.50302553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b61204e907232c00800000000000000
+      internalID: 874585676073539254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jac\xF3_9"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 415
+        width: 99
+        height: 111
+      alignment: 9
+      pivot: {x: 0.2700587, y: 0.49067813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7574c970444827e80800000000000000
+      internalID: -8182332145258444969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jac\xF3_10"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 283
+        width: 72
+        height: 105
+      alignment: 9
+      pivot: {x: 0.801798, y: 0.45401177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48c55dca230580b0800000000000000
+      internalID: -5727167868763256754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jac\xF3_11"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 277
+        width: 63
+        height: 111
+      alignment: 9
+      pivot: {x: 0.34670585, y: 0.4937854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52710ba0953b26330800000000000000
+      internalID: 3702719038664742693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jac\xF3_12"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 289
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.78742665, y: 0.4572966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beadad720dbec290800000000000000
+      internalID: -7868143680573559111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Jac\xF3_13"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 762
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df638847316754310800000000000000
+      internalID: 1388645886045206269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

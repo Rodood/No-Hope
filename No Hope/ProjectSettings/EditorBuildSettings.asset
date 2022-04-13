@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8c802e7a59ce62a4ea442edbe3c672bb
+  - enabled: 1
+    path: Assets/Scenes/Entrada.unity
+    guid: 7104737e0fbd0fd4c8dc546ae8bce477
+  - enabled: 1
+    path: Assets/Scenes/Harry Morre.unity
+    guid: b6ff4fd601a886840a17e375bc936293
+  - enabled: 1
+    path: Assets/Scenes/Fin.unity
+    guid: 24336cca31e428945ba9d0f7022da88f
+  - enabled: 1
+    path: Assets/Scenes/Morte.unity
+    guid: 94faf13243f253d43b3cf0a2fc3cf867
+  m_configObjects: {}

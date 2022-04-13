@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 105f103896e1c914a90811af94459978
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7458715142978198259
+    second: Harrt morte_0
+  - first:
+      213: -5854430612129262524
+    second: Harrt morte_1
+  - first:
+      213: 9088636503834069524
+    second: Harrt morte_2
+  - first:
+      213: -8426645095554756451
+    second: Harrt morte_3
+  - first:
+      213: -6839012740965108839
+    second: Harrt morte_4
+  - first:
+      213: 7335934369968700582
+    second: Harrt morte_5
+  - first:
+      213: -3749813210764093330
+    second: Harrt morte_6
+  - first:
+      213: -2403184021771730410
+    second: Harrt morte_7
+  - first:
+      213: 6699572785074702791
+    second: Harrt morte_8
+  - first:
+      213: -7181113227064551001
+    second: Harrt morte_9
+  - first:
+      213: -6555331059647599365
+    second: Harrt morte_10
+  - first:
+      213: 1581502475344102931
+    second: Harrt morte_11
+  - first:
+      213: -1263585787904155860
+    second: Harrt morte_12
+  - first:
+      213: 4125947999900773555
+    second: Harrt morte_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Harrt morte_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 722
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fada0297eda28760800000000000000
+      internalID: 7458715142978198259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harrt morte_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 728
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444dcd95062e0cea0800000000000000
+      internalID: -5854430612129262524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harrt morte_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 626
+        width: 27
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a8daf1fb2512e70800000000000000
+      internalID: 9088636503834069524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harrt morte_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 626
+        width: 27
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4643416, y: 0.6412044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90db2f8eea8e0b80800000000000000
+      internalID: -8426645095554756451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harrt morte_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 626
+        width: 57
+        height: 75
+      alignment: 9
+      pivot: {x: 0.42799726, y: 0.5646704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99377609522f611a0800000000000000
+      internalID: -6839012740965108839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harrt morte_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 698
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac309921797ec560800000000000000
+      internalID: 7335934369968700582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harrt morte_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 626
+        width: 27
+        height: 72
+      alignment: 9
+      pivot: {x: 0.44472477, y: 0.6243659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68d65e80ccf5fbc0800000000000000
+      internalID: -3749813210764093330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harrt morte_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 647
+        width: 105
+        height: 48
+      alignment: 9
+      pivot: {x: 0.53908664, y: 0.4144961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612c6646ddc26aed0800000000000000
+      internalID: -2403184021771730410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harrt morte_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 623
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c98041c3f9a9fc50800000000000000
+      internalID: 6699572785074702791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harrt morte_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 482
+        width: 81
+        height: 105
+      alignment: 9
+      pivot: {x: 0.75956357, y: 0.4624558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a955f0319f875c90800000000000000
+      internalID: -7181113227064551001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harrt morte_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 479
+        width: 93
+        height: 105
+      alignment: 9
+      pivot: {x: 0.78965396, y: 0.45619828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcae940229c605a0800000000000000
+      internalID: -6555331059647599365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harrt morte_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 479
+        width: 99
+        height: 105
+      alignment: 9
+      pivot: {x: 0.8119186, y: 0.44994128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31649464f10a2f510800000000000000
+      internalID: 1581502475344102931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harrt morte_12
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 479
+        width: 87
+        height: 105
+      alignment: 9
+      pivot: {x: 0.7794221, y: 0.45619828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f9db0bb67d67ee0800000000000000
+      internalID: -1263585787904155860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harrt morte_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 482
+        width: 93
+        height: 105
+      alignment: 9
+      pivot: {x: 0.8108481, y: 0.44368374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bca1df78df424930800000000000000
+      internalID: 4125947999900773555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
